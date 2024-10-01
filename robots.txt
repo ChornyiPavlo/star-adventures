@@ -2,5 +2,5 @@ User-Agent: *
 Disallow:
 
 
-Sitemap: http://pin-upstaradventurespin.xyz/sitemap.xml
-Host: pin-upstaradventurespin.xyz
+Sitemap: http://pin-up.staradventurespin.xyz/sitemap.xml
+Host: pin-up.staradventurespin.xyz
